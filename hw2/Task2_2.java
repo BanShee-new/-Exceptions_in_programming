@@ -22,7 +22,7 @@ public static void printSum(Integer a, Integer b) throws FileNotFoundException {
 }
 
 */
-public class Task2_3 {
+public class Task2_2 {
     public static void main(String[] args) throws Exception {
         try {
             int a = 90;
