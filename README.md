@@ -63,5 +63,6 @@ public static void printSum(Integer a, Integer b) throws FileNotFoundException {
    System.out.println(a + b);<p>
 }
 ```
+3. Разработайте программу, которая выбросит Exception, когда пользователь вводит пустую строку. Пользователю должно показаться сообщение, что пустые строки вводить нельзя.
 
 
