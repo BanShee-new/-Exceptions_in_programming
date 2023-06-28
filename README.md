@@ -31,7 +31,7 @@ return sum;
 
 2. Если необходимо, исправьте данный код
 
-Код первый:
+Код 2.1:
 ```markdown
 >try {<p>
    int d = 0<p>
@@ -41,7 +41,7 @@ return sum;
    System.out.println("Catching exception: " + e);<p>
 }
 ```
-Код второй:
+Код 2.2:
 ```markdown
 >public static void main(String[] args) throws Exception {<p>
    try {<p>
