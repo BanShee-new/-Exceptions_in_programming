@@ -34,6 +34,7 @@ return sum;
 2. Если необходимо, исправьте данный код
 
 Код первый:
+```markdown
 >try {<p>
    int d = 0<p>
    double catchedRes1 = intArray[8] / d;<p>
@@ -41,8 +42,9 @@ return sum;
 } catch (ArithmeticException e) {<p>
    System.out.println("Catching exception: " + e);<p>
 }
-
+```
 Код второй:
+```markdown
 >public static void main(String[] args) throws Exception {<p>
    try {<p>
        int a = 90;<p>
@@ -62,7 +64,7 @@ return sum;
 public static void printSum(Integer a, Integer b) throws FileNotFoundException {<p>
    System.out.println(a + b);<p>
 }
-
+```
 
 3. Разработайте программу, которая выбросит Exception, когда пользователь вводит пустую строку. 
 Пользователю должно показаться сообщение, что пустые строки вводить нельзя.
