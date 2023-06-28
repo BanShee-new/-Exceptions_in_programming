@@ -8,7 +8,7 @@ import java.util.Arrays;
 Если длины массивов не равны, необходимо как-то оповестить пользователя. 
 Важно: При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
 */
-public class task4 {
+public class task3 {
     public static void main(String[] args) {
         int[] arr1 = { 9, 8, 7, 6, 5 };
         int[] arr2 = { 1, 2, 3, 4 };
